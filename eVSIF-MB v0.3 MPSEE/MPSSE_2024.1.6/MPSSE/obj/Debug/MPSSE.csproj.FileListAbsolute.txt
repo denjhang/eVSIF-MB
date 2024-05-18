@@ -1,0 +1,13 @@
+E:\mame_src\MPSSE\MPSSE\bin\Debug\MPSSE.exe.config
+E:\mame_src\MPSSE\MPSSE\bin\Debug\MPSSE.exe
+E:\mame_src\MPSSE\MPSSE\bin\Debug\MPSSE.pdb
+E:\mame_src\MPSSE\MPSSE\bin\Debug\FTDI2XX.dll
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.csproj.AssemblyReference.cache
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.csproj.SuggestedBindingRedirects.cache
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.Form1.resources
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.Properties.Resources.resources
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.csproj.GenerateResource.cache
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.csproj.CoreCompileInputs.cache
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.csproj.CopyComplete
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.exe
+E:\mame_src\MPSSE\MPSSE\obj\Debug\MPSSE.pdb
